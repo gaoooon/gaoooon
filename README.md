@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="35" alt="amazonwebservices logo"  />
 </div>
 
-## more info
+## more info ℹ️
 
 ![](https://gaoooon.github.io/programmers-badge-maker/result/badge.svg)
